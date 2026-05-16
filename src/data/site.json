@@ -1,0 +1,20 @@
+{
+  "name": "Longspooning Archive",
+  "description": "The Public Archive of Longspooning.",
+  "stylesheetVersion": "20260516",
+  "nav": [
+    { "label": "The Sport", "href": "pages/what-is-longspooning.html" },
+    { "label": "Rules & Custom", "href": "pages/rules-custom.html" },
+    { "label": "Orders", "href": "pages/orders.html" },
+    { "label": "Archive", "href": "pages/archive.html" },
+    { "label": "Eccles Copse", "href": "pages/eccles-copse.html" },
+    { "label": "Start an Order", "href": "pages/start-an-order.html" }
+  ],
+  "footerLinks": [
+    { "label": "Archive", "href": "pages/archive.html" },
+    { "label": "Orders", "href": "pages/orders.html" },
+    { "label": "Rules & Custom", "href": "pages/rules-custom.html" },
+    { "label": "Submit", "href": "pages/submit.html" }
+  ],
+  "footerText": "The Field judges. The Archive records. Eccles remembers."
+}

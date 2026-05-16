@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "blackened-ash",
+    "title": "The Order of the Blackened Ash",
+    "region": "Southern woodland, transmission disputed",
+    "status": "Active",
+    "recognition": "Contested by some, respected by others",
+    "sections": [
+      {
+        "heading": "Founding Claim",
+        "html": "<p>The Order maintains that it was formed beneath a lightning-struck tree whose trunk burned without flame for three nights and three days.</p><p>They further claim that the practice was brought to the southern woods by a travelling longspooner from the old northern gatherings. Which man this was is disputed.</p>"
+      },
+      {
+        "heading": "Character of the Order",
+        "items": [
+          "Difficult, unstable morsels",
+          "Minimal tolerance for excessive instruction",
+          "Early failure preferred to prolonged hesitation",
+          "Quiet before the attempt and sudden noise thereafter"
+        ]
+      },
+      {
+        "heading": "Custom",
+        "items": [
+          "The first morsel is taken in silence",
+          "No longspooner may speak after shouldering the shaft",
+          "Shaftsmen advise sparingly and without repetition",
+          "Laughter, once begun, is not restrained"
+        ]
+      },
+      {
+        "heading": "Known Champions",
+        "html": "<p><strong>Edwin Char of the Ash</strong><br>Remembered for taking a soft fruit cleanly under poor footing while refusing all guidance. Later disgraced for wandering during a lesser bout.</p><p><strong>Mara Split-Finger</strong><br>Noted for an aggressive two-finger Galway, rarely successful but widely witnessed.</p>"
+      }
+    ]
+  },
+  {
+    "slug": "salted-reach",
+    "title": "The Order of the Salted Reach",
+    "region": "Northern coast, said to have stood along the windward reaches",
+    "status": "Extinguished, date unknown",
+    "recognition": "Exists only in account and contradiction",
+    "sections": [
+      {
+        "heading": "Account",
+        "html": "<p>The Order of the Salted Reach is spoken of in fireside accounts as a northern coastal gathering, said to have stood close to the earliest days following the coming ashore.</p><p>No written record of the Order survives. What is known is taken from later retellings, most of which contradict one another in detail while agreeing on tone.</p>"
+      },
+      {
+        "heading": "On the Matter of the Open Shore",
+        "html": "<p>Some accounts place its gatherings not beneath woodland canopy, but upon the open shore, where wind, salt and shifting ground made the taking of the morsel uncertain even before the attempt began.</p><p>Others reject this entirely. They maintain that without canopy, fire and darkness, there can be no true Longspooning.</p>"
+      },
+      {
+        "heading": "On Attempts to Restore Shore Play",
+        "html": "<p>From time to time, efforts have been made to restore what is claimed to be the practice of the Salted Reach — gatherings held upon open shore, without canopy, and with little or no fire.</p><p>Such attempts are rarely well attended. No lasting adoption of shore play has been recorded.</p>"
+      },
+      {
+        "heading": "Standing in the Present",
+        "html": "<p>The Association records the name. It does not attest to its truth.</p>"
+      }
+    ]
+  }
+]
